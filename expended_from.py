@@ -10,4 +10,4 @@ def expeded_form(x):
     print(f'Expanded form for {x} is {final}')
 
  number = input('Enter the number to be expended - ')  
- expeded_form(number)     
+ expeded_form(number)      
